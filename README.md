@@ -1,2 +1,2 @@
 # TeoriaDeLaSimulacion
-repositorio donde guardo el contenido dela clase de teoria de la simulacion
+Repositorio donde guardo el contenido de la clase de teoria de la simulacion
